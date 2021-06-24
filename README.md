@@ -1,7 +1,14 @@
-Julián Alberto De Salvador Castañeda (Julibe) vive y trabaja en Bogotá, Colombia. Es un diseñador y desarrollador independiente de aplicaciones web, interfaces dinámicas, multimedias, mini-juegos online y Apps para dispositivos móviles. 
+ # About Julibe
+ ### Hello! I am a freelance Front-End designer and developer.
+My name is Julian Alberto De Salvador Castañeda (Julibe), I am also passionate in designing and creating web applications. .
+I work as a freelance Front-End designer and developer of web applications, dynamic interfaces, multimedia, online mini-games and Apps for mobile devices.
 
-Actualmente es proveedor de servicios profesionales para diferentes clientes o empresas, diseñador y desarrollador de proyectos digitales independientes y es dictatalleres de animación y diseño de Interfaces Digitales y lenguajes de programación para diseñadores. 
+I live and work in Bogotá, Colombia.
 
-Tiene más de 8 años de experiencia profesional dentro y fuera del país en el área de Diseño Gráfico para Medios Interactivos e interfaces dinámicas.
+I am interested in the entire Front-End spectrum and working on hands-on projects with positive people.
 
-http://julibe.com/
+## Skills & experience
+#### My main area of expertise is Front-End development.
+I focus on HTML, CSS, JavaScript, etc., I build small and medium web applications with custom plugins, features, animations and coding of interactive designs.
+I also have vast experience as a developer of open-source tools like WordPress, including the development of plugins and themes.
+
